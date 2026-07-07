@@ -1,0 +1,19 @@
+# Claude Code / AI tooling
+.claude/
+docs/superpowers/
+
+# Data (too large / Kaggle terms)
+data/raw/
+data/processed/
+
+# Large intermediate exports (reproducible via notebooks, not needed to view results)
+outputs/tables/03_application_with_bureau.parquet
+outputs/tables/05_segments.csv
+outputs/tables/06_scored_data.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
