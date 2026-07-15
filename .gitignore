@@ -17,3 +17,6 @@ outputs/tables/06_scored_data.csv
 # OS
 .DS_Store
 Thumbs.db
+
+# 내부 자소서 초안 (공개 제외)
+docs/narrative_draft.md
